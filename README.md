@@ -1,7 +1,7 @@
 # Hi there 👋
 My Profile on Coding Sites
 </br>
-1.[binarysearch.com](https://binarysearch.com/@/Challenger_76) Solved 600+ Problems
+1.[binarysearch.com](https://binarysearch.com/@/Challenger_76) Solved 700+ Problems
 </br>
 2.[hackerrank.com](https://www.hackerrank.com/18ucc061) 971 Global Rank on project euler+ ongoing contest 
 </br>
