@@ -1,5 +1,5 @@
 # Hi there 👋
-My Profile on Coding Sites
+My Profile on other Sites
 </br>
 1.[binarysearch.com](https://binarysearch.com/@/Challenger_76) Solved 700+ Problems
 </br>
